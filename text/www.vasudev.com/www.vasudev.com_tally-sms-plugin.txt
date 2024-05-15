@@ -1,0 +1,529 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tally SMS plugin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  SG: +65 3 159 1040   IN:  +91 908 146 6969 
+   
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+OneNumberTM
+MessageAll
+Products
+
+Toll Free Number
+IVR Services
+Voice Broadcasting
+Missed Call Service
+Tally SMS Plugin
+
+
+Carrier Services
+
+Voice Carrier Services
+A2P SMS Services
+
+
+StartUps
+Resources
+
+FAQ
+API Docs
+Support
+Blog
+
+
+Contact Us
+
+
+ Get Started 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+MessageAll for Tally Features & Advantage
+
+
+
+
+
+
+
+
+Auto Voucher SMS
+
+ Need to inform clients about Sales Bills / Delivery Notes raised towards them?
+ Need to keep an eye on the Sales Bills being generated in your company?
+ Need to monitor payments made by your company?
+ Need to acknowledge payments received from clients?
+
+Tally Messenger provides the perfect solution!
+TM enables the user to pre-configure the settings to send automated messages to one’s clients and/or to Departmental Heads the moment an entry is made in the system. Now you can send SMS automatically the moment an entry is made in Tally. Even entries which are altered can be SMSed to your clients and/or Departmental Heads which would provide absolute control over the books. Auto SMSs can be individually configured (Enabled/Disabled) for each voucher type by the Tally Administrator.
+
+
+
+
+
+
+
+Client Outstanding SMS
+You can send –
+Tally Messenger provides you with an effective debtors outstanding reminder module. Now you can remind your debtors regarding their outstanding bills along with due dates for them. TM helps in sending out payment reminders to the clients based on the outstanding in your accounts with the amount details along with the due date of payment. TM gives the user tremendous flexibility as it accords dual capabilities of sending a message either on the basis of bills or on the basis of ledger.
+
+ Send Outstanding Reminder Bill-Wise
+ Send Outstanding Reminder Ledger-Wise
+ Send Outstanding Reminder to only clients of one debtor group
+ Select ledgers/bills to send reminder for
+
+
+
+
+
+
+
+Centralised SMS Outbox (Server)
+Worried about dropping internet connection?
+Tally Messenger has a SMS outbox which stores all the SMSes generated through tally and sends them the moment the computer goes online. This ensures that all the SMSes generated are sent without fail and your clients and departmental heads can completely rely on TM to send upto-date and prompt messages.
+
+
+
+
+
+
+
+Multiple Sender Id
+Have multiple companies in Tally. TM helps you in sending messages to your clients using your personalized sender ID for each company.
+
+
+
+
+
+
+
+External DB Bulk SMS
+Used to sending bulks from Excel or other external desktop applications?
+
+Tally Messenger enables the user to send Bulk SMS directly from Tally using an external list of numbers in an excel sheet.
+
+
+
+
+
+
+
+Ledger Group SMS
+Need to update your clients about a new product launched by your company?
+Need to send festival greeting to all your clients?
+
+With Tally Messenger, you no longer need to maintain a list of your clients in another software. TM allows you to select groups of clients to whom SMSes are required to be sent. Sending promotional/other notifications to customers was never easier.
+
+
+
+
+
+
+
+Manual Voucher Based SMS
+TM enables you to send SMS directly from the voucher containing information about the voucher directly to the relevant party of the Voucher. Now Sales, purchase, delivery note, payment, etc can be notified to your customers at the click of a button.
+
+
+
+
+
+
+
+Ledger SMS
+Want to share account specific information with your clients?
+
+TM gives the user the capability to send various messages to individual clients directly from the Client Ledger. Ledger Details, Credit Line Info, Current Outstanding or any general SMS can be directly sent from the Clients Ledger.
+
+
+
+
+
+
+
+Auto SMS for Birthday and Anniversary
+Sending SMS for Birthday and Anniversary or any special occasions, makes your customer feel more connected. TM sends SMS for Birthday and Anniversary from Tally itself to your clients on their special day automatically. You can set Birth and Anniversary dates of your clients either at the ledger master or individually at the voucher level. Tally Messenger is programmed to run a specific time every day and to automatically send out greetings to your clients.
+
+
+
+
+
+
+
+Tally Messenger Settings
+TM allows the user to completely control which features of Tally Messenger are enables and who can alter these features.
+
+
+
+
+
+
+
+Customised SMS Templates
+All your messages can be completely customised to suit your requirement and any information from Tally can be sent to your clients.
+
+
+
+
+
+
+
+Complete Customization
+Have a special requirement for Tally Messenger and can’t find the feature?
+What to set a special alert in Tally for specific type of event?
+Simply make a request for the feature and we will customise the solution for you.
+
+
+
+
+
+
+
+
+START CONVERTING CALLS INTO CUSTOMERS TODAY
+Call Now : +91-90814-56969
+ Start Free Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reseller Packages  
+
+
+
+
+
+ Learn about our API  
+
+
+
+
+
+ Download App  
+
+
+
+
+
+
+
+
+
+
+Send bulk SMS with text, OTPs, links & more
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Create a Free Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+OneNumberTM
+Toll Free Number
+IVR Services
+Missed Call Service
+Voice Broadcasting
+MessageBhejo for Tally
+
+
+
+ Company
+About
+Careers
+Contact us
+Terms & conditions
+Refund Policy
+Privacy Policy
+ 
+
+ Resources 
+FAQ
+API Docs
+Support
+
+
+
+
+
+ 
+ 
+
+		  	  
+		  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © Copyright @ 2020 Vasudev Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.Cookie settingsACCEPTPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+

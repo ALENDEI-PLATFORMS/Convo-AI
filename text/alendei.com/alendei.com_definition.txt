@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+Definition - Alendei Platforms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Partnership
+Contact
+ 
+Free Demo 
+
+
+
+
+
+
+
+
+
+
+Definition
+
+
+Home Definition 
+
+
+
+
+
+
+
+
+
+
+
+“Affiliate” means in relation to a Party, any other entity within the group of companies comprising the ultimate parent holding company of that Party and any subsidiary thereof, where “holding company” and “subsidiary” shall have the meanings given to them in Section 1159 of the Companies Act 2006.“Agreement” means this CHANNEL PARTNER AGREEMENT as executed by and between Channel Partner and Alendei, together with any Schedules and Amendments.“Authorized Person” means a person nominated by each Party Under clause 12.“Authorized Recipient” shall have the meaning given to it in clause 2.“Bankrupt”means in respect of a Party when that Party makes an arrangement or composition with its creditors generally or makes an application to a court of competent jurisdiction for protection from its creditors generally or it takes steps to enter into a company voluntary arrangement, or a bankruptcy order is made against it or a resolution is passed by it for its winding up (otherwise than for the purposes of a bona fide scheme of solvent amalgamation or reconstruction), a court of competent jurisdiction makes an order for its winding-up or dissolution, an administration order is made in relation to it or a receiver is appointed over (or an encumbrancer takes possession of or sells) any of its assets, or it is unable or admits in writing its inability to pay its debts as they fall due, and Bankruptcy shall be construed accordingly.“Billing System” means the system operated by the Providing Party to determine the Charges payable by the Sending Party.“Business Day” means a day other than day falling on a weekend or a bank holiday in Singapore or Carrier’s Country.“Brand Name” refers to the name “Alendei” which shall be used in the course business for marketing and selling of the Services & Products of the Alendei.“Charges” means the sums charged by the Providing Party to the Sending Party for the provision and use of the Service.“Commencement Date” shall mean: (i) the date on which the Service is stated to commence in the relevant SoW; or (ii) the date on which the Service is provided by the Providing Party to the Sending Party, whichever is earlier.“Confidential Information” means, subject to clause 16, all information in any form disclosed by the Disclosing Party to the Recipient in relation to, or in connection with, the subject of this Agreement or the Disclosing Party itself that:is marked as being “confidential”, “proprietary” or similar;in the case of information disclosed orally, is stated at the time of disclosure to be “confidential”, “proprietary” or similar, and this is confirmed in writing by the Disclosing Party within seven (7) days of the disclosure;is, by its nature, commercially-sensitive, proprietary or of a class of information that would typically be regarded as being confidential;and/orall material derived from, incorporating, representing or recording all or any material part of the confidential information.“Credit Limit” means such limit imposed on the amount of credit that a Party will afford the other Party in connection with unpaid Charges relating to the provision of the Service and which, if granted, will be shown in a SoW or as amended from time to time by the provisions of clause 11.“Customer” means a person, firm, Alendei or an organization that avails the Services through the Channel Partner within the Territory.“Data Protection Legislation” means all applicable data protection laws and regulations applicable in any jurisdiction in or into which a Party is providing the Service or in which Personal Data is being processed pursuant to this Agreement.“Delivered Message / Delivered Short Message” means a Short Message received by the Providing Party from the Sending Party’s System via the Point(s) of Connection which the Providing Party submits from the Point(s) of Interconnection for delivery and which reaches a final delivered state according to the Providing Party’s Billing System.“Demonstrate” means to show by reference to a person’s ordinary course of business records or other competent evidence.“Disclosing Party” means the Party that, directly or indirectly, discloses Confidential Information to the Recipient.“Disputed Invoice” means an Invoice which is the subject of a genuine and good faith dispute regarding the provision or amount of a Charge or cost of providing a Service in accordance with the procedure set out in clause 10.“Due Date” means the latest date by which payment of an Invoice must be received.“Documentation” means tangible or electronic information necessary for Channel Partner to use the Services, including but not limited to Specifications, user manuals, test data, flow charts, data file listings, machine configuration information, or related information.“Effective Date” means the date of this Agreement.“ENUM” means an IETF standard for mapping the public telephone number address space into the Domain Name System (DNS).“ENUM/HTTP Connection” means transmission capacity between telecommunications apparatus using ENUM/HTTP.“Force Majeure Event” means an act, event, omission or accident beyond the reasonable control of a Party, including strike, lock-out or labour dispute (except for any strike, lock-out or labour dispute by the workforce of the Party seeking to rely on the Force Majeure Event); any law or government order, rule, regulation or direction, or any action taken by a government or public authority, including imposing an embargo, export or import restriction, quota or other restriction or prohibition, or failing to grant a necessary licence or consent; act of God, terrorism or war, threat of or preparation for war, armed conflict, imposition of sanctions, embargo, breaking off of diplomatic relations or similar actions, riot, civil commotion, malicious damage; accident or fire (except for any accident or fire caused by or with the assistance of the Party seeking to rely on the Force Majeure Event); flood, earthquake, stormor other natural disaster; adverse weather conditions; nuclear, chemical, or biological contamination; interruption or failure of utility service, including electric power, gas or water; collapse of building structures or failure of plant or machinery; and the act or omission of any other person that provides any part of a Service or upon which a Party relies in order to support or facilitate any part of a Service where such person is itself the subject of a Force Majeure Event, but excludes a Party’s inability to pay Charges and/or agreed additional sums in accordance with this Agreement.“Good Industry Practice” means the exercise of that degree of skill, care, prudence, efficiency, foresight and timeliness as would be expected from a competent company operating in the same business sector.“GSM 3.4” means the Short Message service specification as defined by the European Telecommunications Standards Institute.“HLR Lookup” means the process whereby standard network signalling data is used to determine information regarding a mobile subscriber for the purposes of routing Short Messages.“HLR Lookup Throughput Rate” means the aggregate volume of HLR Lookups transiting the aggregated capacity of the Sending Party System’s Points of Connection in one second.“HLR Lookup Transmission Capacity” means the general throughput available to the Sending Party for the purpose of conducting HLR Lookups.“HTTP” means Hyper Text Transfer Protocol.“Intellectual Property Rights” means rights in inventions, patents, know-how, trade secrets and other confidential information, trademarks, service marks, and rights in the nature of passing off and unfair competition, get-up, trade dress, rights in registered designs and unregistered designs and design rights, rights in trade names and business names, domain names, topography rights, copyright (including copyright in software), moral rights, database rights and all rights or forms of protection of a similar nature or having similar or equivalent effect to any of these which may exist now or in the future subsist in any part of the world, whether registered or not or the subject of an application for registration, and including all rights to apply for and obtain registrations in respect of any and all of the foregoing, each for their full term together with all renewals, revivals and extensions of such rights.“Interconnection Supplier” means such operators of telecommunication services outside the Providing Party’s licenced territory with which the Providing Party has, or may have, a reciprocal agreement for the provision of telecommunication services, including roaming partners of the Providing Party.“Invoice” means such document sent from time to time by the Providing Party to the Sending Party demanding payment in respect of the Service.“Liabilities” shall mean all liabilities, claims, judgments, losses, orders, awards, damages, costs, fines, penalties, costs of defence, and attorneys’ fees.“Minimum Contract Period” means the minimum contractual period set forth in clause 2.3 or as otherwise stated in the relevant SoW.“Personal Data” and the “processing” thereof shall have the meaning given to those terms in the relevant Data Protection Legislation.“Point of Connection” means those points on the Providing Party’s telecommunications system at which SMPP connections from the Sending Party’s System are made, including all associated terminating cards and ports.“Point of Interconnection” means a nominal point where the Providing Party’s telecommunications system connects with the telecommunication system of its Interconnection Supplier(s).“Providing Party” means the Party providing the Service to the other Party as the Sending Party.“Product” means various services which are define below in this Agreement.“Recipient” means the Party that, directly or indirectly, receives Confidential Information from the Disclosing Party.“Sending Party” means the Party making use of the Service provided by the other Party as the Providing Party.“Service” means the provision of international telecommunications services necessary to permit the Sending Party to send and receive Short Messages and/or HLR Lookups from/to worldwide locations by way of interconnection to the Providing Party’s telecommunications system, as more fully set out in the applicable SoW.“Short Message” means a message of up to 160 characters or 140 bytes that can be sent and received by mobile phones or related applications as defined in GSM 3.4.“Short Message Throughput Rate” means the aggregate volume of Short Messages transiting the aggregated capacity of the Sending Party System’s Points of Connection in one second.“Short Message Transmission Capacity” means that portion of the general SMPP throughput available to the Sending Party or the purpose of sending and receiving Short Messages.“SMPP” means Short Message Peer-to-Peer Protocol.“SMPP Transmission Failure” means a condition whereby Short Messages sent to/from the Sending Party’s System cannot be delivered to the intended recipient due to errors in the normal SMPP handling system.SMPP Signalling” means Short Message Peer-to-Peer protocol for the transmission of Short“SMPP Signalling Connection” means telecommunications signalling capacity between telecommunications apparatus using SMPP Signalling (but not constituting a dedicated private circuit);“Statement of Work” or “SoW” means a statement of work for the provision of Services, containing a detailed description of the Services to be provided.“Submitted Message / Submitted Short Message” means a Short Message received by the Providing Party from the Sending Party’s System via the Point(s) of Connection which the Providing Party submits from the Point(s) of Interconnection for delivery.“Supervisory Authority” means any competent regulatory authority, including but not limited to Singapore Jurisdictionor telecommunications regulator from time to time in any jurisdiction in or into which a Party is providing the Services or processing Personal Data.“System” means a system operated by the Sending Party incorporating functionality for the purpose of delivery and receipt of Short Messages and HLR Lookups.“Schedule(s)” means a written instrument made part of this Agreement describing such things as additional features, support or Professional Services to be provided with the Services.“Undelivered Message” means a Short Message received by the Providing Party from the Sending Party’s System via the Point(s) of Connection which the Providing Party submits from the Point(s) of Interconnection for delivery and which does not reach a final delivered state according to the Providing Party’s Billing System.“Unsolicited Traffic” means Short Messages which are sent on an unsolicited basis to an end user without their prior consent and which: (i) contains or is relating to marketing information or other commercial or non-commercial information; and/or (ii) is encouraging the end user directly or indirectly to call or send a Short Message to a premium rate number; and/or (iii) is in breach of any applicable national law or regulatory restrictions; and/or (iv) would otherwise reasonably be identified as so-called spam.In this Agreement, unless the context otherwise requires:References to “this Agreement” mean this Services Agreement, as amended or varied from time-to-time;References to clauses and to schedules are to be construed as references to the clauses of and the schedules to this Agreement;The words and phrases “for example”, “include”, “including”, and “in particular” shall not limit the generality of any preceding words or be construed as being limited to the same class as the preceding words where a wider construction is possible;Words in the singular shall include the plural and words in the plural shall include the singular;Words denoting any gender shall include all genders;Headings are used for convenience only and shall not affect the interpretation of this Agreement; andReferences to any enactment shall be deemed to include references to such enactment as from time-to-time amended, extended, re-enacted or consolidated.The defined terms “Alendei” and “Operator” shall include their respective successors and permitted assigns.“Territory” includes and is limited to India, within which the Channel Partner shall have the non-exclusive license to promote, market and distribute the Product, as per the terms of this Agreement.In the event of an inconsistency (in the case of a particular SoW) between the provisions of this Agreement and the applicable SoW, the latter shall prevail.
+
+SearchSearchRecent PostsAt the Heart of Connection: How Alendei Bridges the Communication Gap
+Empowering Education with CPaaS Tools like WhatsApp Business
+API Chatbots: Powering Productivity and Revenue Revolution
+Alendei Platforms: Awarded CPaaS Partner of the Year 2023
+Categories Awards
+
+CPaaS
+
+Technology
+
+
+
+Tags
+AI Chatbots
+API Chatbots
+Chatbots
+CPaaS market growth
+Education sector communication strategies
+Improving student engagement
+Innovative communication tools for educators
+Innovative technology
+Latest Tech
+Service
+Social Media API
+Solutions
+Virtual Customer support
+Whatsapp business
+WhatsApp Business benefits for universities
+WhatsApp Business features for schools
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+We will create a chatbot for you as per your needs.
+
+Create Chatbot
+
+ 
+
+
+About Us
+Empower your communication with Alendei, a leading CPaaS platform specializing in personalized conversations. Using WhatsApp and other channels, we redefine customer engagement. Our commitment is to deliver innovative solutions, transparent pricing, and a seamless experience. Join us in creating meaningful connections and elevating your communication strategy. 
+
+Useful LinksBlog
+Privacy Policy
+Terms and Condition
+Cancellation Refund Policy
+Shipping Delivery Policy
+Disclaimer
+Definition
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+					© 2024 Alendei - All Rights Reserved by Alendei Platforms				
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

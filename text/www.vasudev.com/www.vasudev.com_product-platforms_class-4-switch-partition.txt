@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class 4 Switch Partition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  SG: +65 3 159 1040   IN:  +91 908 146 6969 
+   
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+OneNumberTM
+MessageAll
+Products
+
+Toll Free Number
+IVR Services
+Voice Broadcasting
+Missed Call Service
+Tally SMS Plugin
+
+
+Carrier Services
+
+Voice Carrier Services
+A2P SMS Services
+
+
+StartUps
+Resources
+
+FAQ
+API Docs
+Support
+Blog
+
+
+Contact Us
+
+
+ Get Started 
+
+
+
+
+
+
+  
+
+
+Class 4 Switch Partition
+ Switch Partitioning 
+Every switch partition will decrease the admin switch 
+call volume and that volume will be assigned to child 
+partitioned switch. 
+Get a Demo 
+
+
+
+
+
+
+
+
+
+Key Features of Switch Partition
+
+Fully customized billing interface
+Admin can change billing outlook anytime
+Possible to assign domain name or IP wise separate billing link
+Admin can assign separate switch IP for each switch partition (if server has additional IP)
+Admin can assign same switch IP with different SIP port if server has one available IP
+Admin can block/unblock child partition switch anytime
+Admin can increase/decrease call volume of child partition switch
+
+
+
+
+
+
+
+
+
+Send SMS Campaigns Your Customer finds Interesting
+Rise above the simple local SMS. Using VasudevSMS Simple yet powerful Webpanel you can modify your Bulk SMS campaign in minutes.
+
+
+
+
+
+
+
+Supports more than 15+ languages               
+
+
+
+
+
+Option to schedule your SMS delivery               
+
+
+
+
+
+Strategize your SMS in Groups               
+
+
+
+
+
+Send SMS with attachments, short urls, survey and more.               
+
+
+
+
+
+
+
+
+
+ 
+
+Enhance your Customer Experience
+SMS that are not delivered on time can cost you your potential customer. So, to enrich you customer experience, engagement and retention the delveriability and speed of the SMS plays a vital role.
+
+ Our direct connections with top-notch operators, smart routing and robust infrastructure guarantees reliable delivery rates and speed for all your campaigns.
+
+
+Send timely SMS alerts, reminders and notification to your customers to increase and improve you conversion rates. VasudevSMS can guide you to automate such texts directly from your application or software by using our simple and easy APIs.
+
+
+ Measure and Improve customer satisfaction promptly by collecting customer feedback via VasudevSMS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reseller Packages  
+
+
+
+
+
+ Learn about our API  
+
+
+
+
+
+ Download App  
+
+
+
+
+
+
+
+
+
+
+Send bulk SMS with text, OTPs, links & more
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Create a Free Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+OneNumberTM
+Toll Free Number
+IVR Services
+Missed Call Service
+Voice Broadcasting
+MessageBhejo for Tally
+
+
+
+ Company
+About
+Careers
+Contact us
+Terms & conditions
+Refund Policy
+Privacy Policy
+ 
+
+ Resources 
+FAQ
+API Docs
+Support
+
+
+
+
+
+ 
+ 
+
+		  	  
+		  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © Copyright @ 2020 Vasudev Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.Cookie settingsACCEPTPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+

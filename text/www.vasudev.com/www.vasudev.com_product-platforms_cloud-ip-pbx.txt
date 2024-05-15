@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud IP PBX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  SG: +65 3 159 1040   IN:  +91 908 146 6969 
+   
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+OneNumberTM
+MessageAll
+Products
+
+Toll Free Number
+IVR Services
+Voice Broadcasting
+Missed Call Service
+Tally SMS Plugin
+
+
+Carrier Services
+
+Voice Carrier Services
+A2P SMS Services
+
+
+StartUps
+Resources
+
+FAQ
+API Docs
+Support
+Blog
+
+
+Contact Us
+
+
+ Get Started 
+
+
+
+
+
+
+  
+
+
+Cloud IP PBX
+Global scalability meets cloud capabilities.
+Vasudev IP PBX  makes it easy to connect your business to the world in minutes.  With huge capacity, scale up or down the capacity and easily go global. 
+Get a Demo 
+
+
+
+
+
+
+
+
+ See how Nexmo SIP Trunking helps businesses like yours succeed.
+
+
+
+
+
+
+Go global with ease
+Enable call center agents to accept global inbound calls in the cloud, and send outbound marketing calls local phone numbers. 
+
+
+
+
+
+Expand your callers’ reach
+Allow your developers to extend calls to the cloud by adding SIP connectivity to their voice applications. 
+
+
+
+
+
+Connect to the cloud in no time
+Save time and money and avoid traditional capacity restrictions by connecting your existing PBX idnfrastructure to the cloud. 
+
+
+
+
+
+Scale your on-premise call center.
+Equip your call center with SIP connectivity and avoid managing carrier relationships and contracts in multiple countries. 
+
+
+
+
+
+Discover more ways Nexmo SIP Trunking can enhance your existing on-premise infrastructure.
+Get a Demo
+
+
+
+
+
+
+
+
+
+
+ Start using your own Opt Ins Group to reach out your audience
+
+
+
+
+
+  
+ Automatic Location Based Routing
+Provision trunks instantly using detailed PBX configuration guides.
+
+
+
+
+  
+ PBX Compatibility
+Provision trunks instantly using detailed PBX configuration guides.
+
+
+
+
+  
+ Efficient Elasticity
+Save money by eliminating pre-provisioning trunks with virtually unlimited capacity.
+
+
+
+
+Get a Demo
+ 
+
+
+
+
+
+ 
+
+Promotional or Transactional, which SMS route should I choose?
+ Choose the SMS route best suited for your business needs, whether it is for bulk SMS marketing or for customer engagement. Know the differences between Promotional and Transactional SMS with our quick explainer. Know more about regulatory guidelines. 
+   
+
+ Promotional SMS 
+  Configured by default for all new accounts, promotional SMS is generally used for sending any offers or promotions to new and existing customers. Messages are sent to non-DND numbers and opt-in numbers (via myDND Manager) between 9am and 9pm only. Start your free trial today! 
+
+
+   
+
+  Transactional SMS 
+ Transactional route can only be used for sending transactional SMS such as OTPs and alerts to your registered users. Messages can be sent 24/7 from your own 6-character Sender ID. To configure a transactional route, create your account today and contact care@vasudevsms.in . No setup costs involved!
+
+
+   
+
+  Business SMS 
+ We can configure both promotional and transactional SMS routes to you, free of cost, so that you can send any business SMS hassle-free! With platinum telecom partnership and intelligent routing technology, Vasudev SMS gateway assures you best-in-class delivery rates for both bulk SMS and SMS alerts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reseller Packages  
+
+
+
+
+
+ Learn about our API  
+
+
+
+
+
+ Download App  
+
+
+
+
+
+
+
+
+
+
+Send bulk SMS with text, OTPs, links & more
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Create a Free Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+OneNumberTM
+Toll Free Number
+IVR Services
+Missed Call Service
+Voice Broadcasting
+MessageBhejo for Tally
+
+
+
+ Company
+About
+Careers
+Contact us
+Terms & conditions
+Refund Policy
+Privacy Policy
+ 
+
+ Resources 
+FAQ
+API Docs
+Support
+
+
+
+
+
+ 
+ 
+
+		  	  
+		  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © Copyright @ 2020 Vasudev Global
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.Cookie settingsACCEPTPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+
